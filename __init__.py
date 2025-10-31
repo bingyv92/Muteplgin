@@ -7,4 +7,6 @@ __plugin_meta__ = PluginMetadata(
     version="4.2.0",
     author="SengokuCola",
     license="MIT",
+    repository_url="https://github.com/bingyv92/Muteplgin"
 )
+
